@@ -33,8 +33,8 @@ Para arrancar el proyecto, sigue los siguientes pasos:
 1. **Clonar el repositorio**:
 
    ```sh
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_PROYECTO>
+   git clone https://github.com/TomyQB/inditex-test.git
+   cd inditex-test
    ```
 
 2. **Compilar el proyecto con Maven**:
@@ -58,8 +58,8 @@ Para ejecutar los tests del proyecto, sigue los siguientes pasos:
 1. **Clonar el repositorio**:
 
    ```sh
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_PROYECTO>
+   git clone https://github.com/TomyQB/inditex-test.git
+   cd inditex-test
    ```
 
 2. **Ejecutar los tests con Maven**:
